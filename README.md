@@ -15,7 +15,7 @@ ScreenShot 👇
 
 image
 
- here the website is hosted :
+ here the website is hosted :https://kushal251.github.io/Amazon_clone/
 
 # Usage
 Feel free to explore the project by opening the index.html file in a web browser. Since this is a static representation, you won't be able to perform actual transactions or navigate to other pages as you would on the official Amazon website.
